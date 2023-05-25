@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="15.941993"
+   height="15.95773"
+   viewBox="0 0 13.284994 13.298108"
+   version="1.1"
+   id="svg521"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="../favicon_16.png"
+   inkscape:export-xdpi="122.40964"
+   inkscape:export-ydpi="122.40964"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview523"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="9.5144351"
+     inkscape:cx="40.517382"
+     inkscape:cy="31.110623"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g181" />
+  <defs
+     id="defs518">
+    <clipPath
+       id="presentation_clip_path"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         x="0"
+         y="0"
+         width="21000"
+         height="29700"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.16845,-97.396682)">
+    <g
+       class="SlideGroup"
+       id="g204"
+       transform="matrix(0.01,0,0,0.01,-26.004153,75.778814)">
+      <g
+         id="g202">
+        <g
+           id="container-id1">
+          <g
+             id="id1"
+             class="Slide"
+             clip-path="url(#presentation_clip_path)">
+            <g
+               class="Page"
+               id="g198">
+              <g
+                 class="Group"
+                 id="g196">
+                <g
+                   class="Group"
+                   id="g181">
+                  <g
+                     class="com.sun.star.drawing.CustomShape"
+                     id="g179"
+                     transform="matrix(2.2026432,0,0,2.2026432,-16828.555,-4443.9402)">
+                    <g
+                       id="id15">
+                      <rect
+                         class="BoundingBox"
+                         stroke="none"
+                         fill="none"
+                         x="10599"
+                         y="2999"
+                         width="454"
+                         height="454"
+                         id="rect172" />
+                      <path
+                         fill="#ff860d"
+                         stroke="none"
+                         d="m 11051,3226 c 0,39 -10,78 -30,112 -20,35 -48,63 -83,83 -34,20 -73,30 -112,30 -40,0 -79,-10 -113,-30 -35,-20 -63,-48 -83,-83 -20,-34 -30,-73 -30,-112 0,-40 10,-79 30,-113 20,-35 48,-63 83,-83 34,-20 73,-30 113,-30 39,0 78,10 112,30 35,20 63,48 83,83 20,34 30,73 30,113 z"
+                         id="path174" />
+                      <path
+                         fill="none"
+                         stroke="#f3e300"
+                         d="m 11051,3226 c 0,39 -10,78 -30,112 -20,35 -48,63 -83,83 -34,20 -73,30 -112,30 -40,0 -79,-10 -113,-30 -35,-20 -63,-48 -83,-83 -20,-34 -30,-73 -30,-112 0,-40 10,-79 30,-113 20,-35 48,-63 83,-83 34,-20 73,-30 113,-30 39,0 78,10 112,30 35,20 63,48 83,83 20,34 30,73 30,113 z"
+                         id="path176" />
+                    </g>
+                  </g>
+                  <g
+                     id="g14670"
+                     transform="translate(-88.930995)"
+                     style="stroke:#8f8f8f">
+                    <g
+                       class="com.sun.star.drawing.OpenBezierShape"
+                       id="g100"
+                       transform="translate(527.19065,-16.902428)"
+                       style="stroke:#8f8f8f">
+                      <g
+                         id="id4"
+                         style="stroke:#8f8f8f">
+                        <rect
+                           class="BoundingBox"
+                           stroke="none"
+                           fill="none"
+                           x="6494"
+                           y="2479"
+                           width="913"
+                           height="1029"
+                           id="rect95"
+                           style="stroke:#8f8f8f" />
+                        <path
+                           fill="none"
+                           stroke="#666666"
+                           stroke-width="212"
+                           stroke-linejoin="round"
+                           stroke-linecap="round"
+                           d="m 6600,2585 v 815 -489 c 0,-163 150,-326 350,-326 200,0 350,163 350,326 v 489"
+                           id="path97"
+                           style="stroke:#8f8f8f" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
