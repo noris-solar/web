@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Matthias Urlichs"  # (translatable)
-BLOG_TITLE = "noris.solar Energiegenossenschaft"  # (translatable)
+BLOG_AUTHOR = "noris.solar i.Gr."  # (translatable)
+BLOG_TITLE = "noris.solar Energiegenossenschaft i.Gr."  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://noris.solar/"
@@ -142,8 +142,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/blog/", "Aktuelles"),
         ("/archive.html", "Archiv"),
-        ("/categories/", "Tags"),
         ("/rss.xml", "RSS-Feed"),
     ),
 }
@@ -156,12 +156,14 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+#THEME = "bootblog4"
+#THEME = "hyde"
+THEME = "bootstrap4-jinja"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
 # as an accent color (the default ones don’t). Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#0c0'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Samples for bootblog4 (enabled) and bootstrap4 (commented) follow.
@@ -170,7 +172,6 @@ THEME_COLOR = '#5670d4'
 # bootstrap4 supports: navbar_light (defaults to False)
 #                      navbar_custom_bg (defaults to '')
 
-# Config for bootblog4:
 THEME_CONFIG = {
     DEFAULT_LANG: {
         # Show the latest featured post in a large box, with the previewimage as its background.
@@ -185,7 +186,9 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': False,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar': '',
+        # navbar
+        'navbar_custom_bg': 'sol-green',
     }
 }
 # Config for bootstrap4:
@@ -364,7 +367,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+LOGO_URL = '/assets/Logo.light.svg'
 
 # When linking posts to social media, Nikola provides Open Graph metadata
 # which is used to show a nice preview. This includes an image preview
@@ -983,7 +986,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Inhalt &copy; {date} <a href="mailto:{email}">{author}</a>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
