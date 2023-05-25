@@ -32,7 +32,7 @@
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="id16" />
+     inkscape:current-layer="g244" />
   <defs
      id="defs518">
     <clipPath
@@ -418,9 +418,11 @@
         <g
            class="com.sun.star.drawing.LineShape"
            id="g93"
-           transform="translate(52.916667,52.916667)">
+           transform="translate(52.916667,52.916667)"
+           style="stroke:#c81100;stroke-opacity:1">
           <g
-             id="id3">
+             id="id3"
+             style="stroke:#c81100;stroke-opacity:1">
             <rect
                class="BoundingBox"
                stroke="none"
@@ -429,14 +431,16 @@
                y="3646"
                width="1108"
                height="508"
-               id="rect88" />
+               id="rect88"
+               style="stroke:#c81100;stroke-opacity:1" />
             <path
                fill="none"
                stroke="#3465a4"
                stroke-width="106"
                stroke-linejoin="round"
                d="m 14100,4100 1000,-400"
-               id="path90" />
+               id="path90"
+               style="stroke:#c81100;stroke-opacity:1" />
           </g>
         </g>
       </g>
