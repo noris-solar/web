@@ -6,5 +6,50 @@ img.img-logo { height: 0.8em; margin-top: -0.25em; }
 .nav-link { color: rgba(255,255,255,.8) }
 .nav-link:hover { color: rgba(255,255,255,1) }
 
-body { padding-top: 90px; padding-bottom: 40px; background-color: #efe; }
-footer#footer  { background-color: #050; padding-top: 5px;}
+// body { padding-top: 90px; padding-bottom: 40px; background-color: #efe; }
+// footer#footer  { background-color: #050; padding-top: 5px;}
+
+
+#main {
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: auto auto auto;
+  background-color: #f0fff0;
+}
+
+header, nav {
+   grid-row: 1;  
+   width: 100%;
+   position: unset;
+}
+
+#wrap {
+  grid-row: 2;
+  overflow-y: auto;
+  width: 100%;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+#content {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+div.postindex header {
+    padding-top: 20px;
+}
+
+footer{
+   grid-row: 3;
+   
+   background-color: #050;
+   padding-top: 5px;
+   position: unset;
+}

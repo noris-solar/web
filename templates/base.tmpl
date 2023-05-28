@@ -12,8 +12,9 @@
 <a href="#content" class="sr-only sr-only-focusable">{{ messages("Skip to main content") }}</a>
 
 <!-- Menubar -->
+<div id="main">
 
-<nav class="navbar navbar-expand-md fixed-top mb-4
+<nav class="navbar navbar-expand-md
 {% if theme_config.get('navbar_light') %}
 navbar-light
 {% else %}
@@ -68,8 +69,14 @@ bg-dark
 
 <!-- End of Menubar -->
 
+<div class="body-wrap" id="wrap" role="main">
+
+{% block before_content %}{% endblock %}
+
 <div class="container" id="content" role="main">
-    <div class="body-content">
+
+
+    <div class="body-content" id="body">
         <!--Body content-->
         {{ template_hooks['page_header']() }}
         {% block extra_header %}{% endblock %}
@@ -78,12 +85,15 @@ bg-dark
 
     </div>
 </div>
+</div>
 
-<footer id="footer" class="fixed-bottom">
+<footer id="footer">
     {{ content_footer }}
     {{ template_hooks['page_footer']() }}
     {% block extra_footer %}{% endblock %}
 </footer>
+
+</div> 
 
 {{ base.late_load_js() }}
     {% if date_fanciness != 0 %}
@@ -102,5 +112,6 @@ bg-dark
     </script>
 {{ body_end }}
 {{ template_hooks['body_end']() }}
+
 </body>
 </html>
