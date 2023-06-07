@@ -144,6 +144,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ((
             ("/gen/idee/", "Die Idee"),
+            ("/blog/satzung-01/", "Satzung (Entwurf!)"),
             ("/", "Weiteres"),
             ("/", "folgt"),
             ("/", "demnächst"),
