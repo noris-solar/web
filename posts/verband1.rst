@@ -13,9 +13,9 @@ viele Prüfungsverbände.
 
 Praktischerweise gibt es aber in Bayern einen Zusammenschluss von
 Bürgerenergie-Genossenschaften, den `Bürgerenergie Bayern e.V.
-<https://www.buergerenergie-bayern.org>`_. Der wiederum hat einen eigenen
-Prüfungsverband gegründet, der `Der Genossenschaftliche
-<https://www.der-genossenschaftliche.de/>`_ heißt.
+<https://www.buergerenergie-bayern.org>`_. Dieser Verein hat einen eigenen
+Prüfungsverband gegründet: `Der Genossenschaftliche
+<https://www.der-genossenschaftliche.de/>`_.
 
 Somit gehen wir davon aus, dass wir dort sowohl regional als auch thematisch gut
 aufgestellt wären bzw. sein werden.
