@@ -8,7 +8,7 @@
 .. description: 
 .. type: rst
 
-Es gibt ziemlich viele Genossenschaften – und dementsprechend
+Es gibt in Deutschland überraschend viele Genossenschaften – und dementsprechend
 viele Prüfungsverbände.
 
 Praktischerweise gibt es aber in Bayern einen Zusammenschluss von
