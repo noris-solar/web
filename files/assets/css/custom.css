@@ -14,7 +14,7 @@ a.external { font-weight: bold; }
 /* footer#footer  { background-color: #050; padding-top: 5px;}
  */
 
-h2, h3 {
+h2, h3, article.h-entry h1 {
     margin-top: 0.7em;
 }
 
