@@ -44,6 +44,8 @@ Nächste Schritte:
 
 * Weitere Mitglieder finden.
 
-Mehr in Kürze!
+* Photovoltaik auf unsere Dächer bringen.
+
+Mehr in Kürze.
 
 
