@@ -11,7 +11,7 @@
 
 Ein erster Entwurf unserer Satzung ist fertig.
 
-Ihr könnt sie `online lesen </files/Satzung.html>`_ oder als `PDF </files/Satzung.pdf>`_ oder
+Ihr könnt ihn `online lesen </files/Satzung.html>`_ oder als `PDF </files/Satzung.pdf>`_ oder
 `LibreOffice-Text </files/Satzung.odf>`_ herunterladen.
 
 Die Online-Version ist noch nicht besonders hübsch … das wird
@@ -21,6 +21,6 @@ Die Satzung ist "kurz", d.h. ihr fehlen die Elemente, die vom Gesetz
 fest vorgeschrieben sind. Dadurch halten wir das Dokument übersichtlich und
 konzentrieren uns auf das Wesentliche.
 
-Das Genossenschaftsgesetz ist `hier
+Das Genossenschaftsgesetz (GenG) ist `hier
 <https://www.gesetze-im-internet.de/geng/BJNR000550889.html>`_ online zu
 finden.
