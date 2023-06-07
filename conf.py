@@ -142,6 +142,16 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ((
+            ("/gen/idee/", "Die Idee"),
+            ("/", "Weiteres"),
+            ("/", "folgt"),
+            ("/", "demnächst"),
+        ), "Genossenschaft"),
+        ((
+            ("/proj/kilian/", "1 MW Solardach"),
+            ("/", "Demnächst mehr?"),
+        ), "Projekte"),
         ("/blog/", "Aktuelles"),
         ("/archive.html", "Archiv"),
     ),
@@ -176,11 +186,11 @@ THEME_COLOR = '#0c0'
 THEME_CONFIG = {
     DEFAULT_LANG: {
         # Show the latest featured post in a large box, with the previewimage as its background.
-        'featured_large': False,
+        'featured_large': True,
         # Show the first (remaining) two featured posts in small boxes.
-        'featured_small': False,
+        'featured_small': True,
         # Show featured posts on mobile.
-        'featured_on_mobile': True,
+        'featured_on_mobile': False,
         # Show image in `featured_large` on mobile.
         # `featured_small` displays them only on desktop.
         'featured_large_image_on_mobile': True,
@@ -595,14 +605,14 @@ FRONT_INDEX_HEADER = {
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
 # Create one large archive instead of per-year
-# CREATE_SINGLE_ARCHIVE = False
+CREATE_SINGLE_ARCHIVE = True
 # Create year, month, and day archives each with a (long) list of posts
 # (overrides both CREATE_MONTHLY_ARCHIVE and CREATE_SINGLE_ARCHIVE)
 # CREATE_FULL_ARCHIVES = False
 # If monthly archives or full archives are created, adds also one archive per day
 # CREATE_DAILY_ARCHIVE = False
 # Create previous, up, next navigation links for archives
-# CREATE_ARCHIVE_NAVIGATION = False
+CREATE_ARCHIVE_NAVIGATION = True
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
@@ -676,7 +686,7 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 DEPLOY_COMMANDS = {
      'default': [    
-         "rsync -rav --delete output/. solar@dispatch.vm.smurf.noris.de:/var/www/solar/.",
+         "rsync -rav --delete --exclude=files output/. solar@dispatch.vm.smurf.noris.de:/var/www/solar/.",
      ]
 }
 
@@ -806,7 +816,7 @@ GALLERIES_DEFAULT_THUMBNAIL = None
 
 # If set to True, EXIF data will be copied when an image is thumbnailed or
 # resized. (See also EXIF_WHITELIST)
-# PRESERVE_EXIF_DATA = False
+PRESERVE_EXIF_DATA = True
 
 # If you have enabled PRESERVE_EXIF_DATA, this option lets you choose EXIF
 # fields you want to keep in images. (See also PRESERVE_EXIF_DATA)
@@ -823,7 +833,7 @@ GALLERIES_DEFAULT_THUMBNAIL = None
 # PRESERVE_EXIF_DATA is set to True
 # To preserve ALL EXIF data, set EXIF_WHITELIST to {"*": "*"}
 
-# EXIF_WHITELIST = {}
+EXIF_WHITELIST = {"*": "*"}
 
 # Some examples of EXIF_WHITELIST settings:
 
@@ -842,7 +852,7 @@ GALLERIES_DEFAULT_THUMBNAIL = None
 
 # If set to True, any ICC profile will be copied when an image is thumbnailed or
 # resized.
-# PRESERVE_ICC_PROFILES = False
+PRESERVE_ICC_PROFILES = True
 
 # Folders containing images to be used in normal posts or pages.
 # IMAGE_FOLDERS is a dictionary of the form {"source": "destination"},
@@ -913,7 +923,7 @@ IMAGE_FOLDERS = {'images': 'images'}
 # Note that in case INDEXES_PAGES_MAIN is set to True, a redirection will be created
 # for the full URL with the page number of the main page to the normal (shorter) main
 # page URL.
-# INDEXES_PRETTY_PAGE_URL = False
+INDEXES_PRETTY_PAGE_URL = True
 #
 # If the following is true, a page range navigation will be inserted to indices.
 # Please note that this will undo the effect of INDEXES_STATIC, as all index pages
@@ -940,9 +950,9 @@ IMAGE_FOLDERS = {'images': 'images'}
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = (
-    #("icon", "/favicon.ico", "16x16"),
+    ("icon", "/favicon.ico", "64x64"),
     #("icon", "/favicon_32.png", "32x32"),
-    ("icon", "/favicon_64.png", "64x64"),
+    #("icon", "/favicon_64.png", "64x64"),
     #("icon", "/favicon_16.png", "16x16"),
 )
 
@@ -990,7 +1000,12 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Inhalt &copy; {date} <a href="mailto:{email}">{author}</a>'
+CONTENT_FOOTER = """
+<div class="container-fluid">
+    <div class="container-md">Inhalt &copy; {date} <a href="mailto:{email}">{author}</a></div>
+    <div class="container-md"><a href="nix">Impressum</a></div>
+</div>
+"""
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

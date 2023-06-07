@@ -7,25 +7,11 @@
 .. description: 
 .. type: md
 
-
-.. raw:: html
-
-    <style>
-        .grey {color:#777; font-weight:bold;}
-        .red {color:#f30; font-weight:bold; font-size: 2em;}
-        .yellow {color:#fa0; font-weight:bold;}
-        h1.entry-title {display: none;}
-    </style>
-
-.. role:: grey
-.. role:: red
-.. role:: yellow
-
 .. |logo| image:: /assets/Logo.noline.svg
                   :alt: noris.solar
                   :class: img-logo
 
-Willkommen bei |logo|, der Nürnberger
+Willkommen bei |logo| (demnächst-eG), der Nürnberger
 Bürgerenergiegenossenschaft.
 
 
@@ -38,5 +24,26 @@ Bürgerenergiegenossenschaft.
 
    Wer mitmachen will, schicke eine Mail an mitmachen@noris.solar.
 
+Aktueller Status:
+
+* Wir haben einen Satzungsentwurf.
+
+* Der Eigentümer einer Industriehalle im Norden von Nürnberg
+  hat sich bereiterklärt, uns sein Dach verpachten. Uns erwarten 7000 m²,
+  d.h. ca. 1 MWp Solarleistung.
+
+Nächste Schritte:
+
+* Wir einigen uns über die Details der Satzung.
+
+* Ausreichend viele Mitstreiter halten eine Gründungsversammlung ab.
+
+* Die Satzung muss von einem Prüfungsverband bestätigt werden.
+
+* Genossenschaft eintragen, Konto eröffnen, und so weiter.
+
+* Weitere Mitglieder finden.
+
 Mehr in Kürze!
+
 
