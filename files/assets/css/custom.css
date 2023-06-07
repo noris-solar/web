@@ -6,9 +6,37 @@ img.img-logo { height: 0.8em; margin-top: -0.25em; }
 .nav-link { color: rgba(255,255,255,.8) }
 .nav-link:hover { color: rgba(255,255,255,1) }
 
+a { color: #030; }
+
 // body { padding-top: 90px; padding-bottom: 40px; background-color: #efe; }
 // footer#footer  { background-color: #050; padding-top: 5px;}
 
+h2, h3 {
+    margin-top: 0.7em;
+}
+
+// the first h3 does not get the extra margin
+h2 + section h3 {
+    margin-top: 0;
+}
+
+.dropdown-menu {
+    background-color: #cec;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #050;
+    color: #fff;
+}
+
+article.storypage header, aside.no-header p.admonition-title {
+    display: none;
+}
+
+.dropdown-item:hover {
+    background-color: #060;
+    color: #fff;
+}
 
 #main {
   height: 100%;
@@ -18,7 +46,7 @@ img.img-logo { height: 0.8em; margin-top: -0.25em; }
   width: 100%;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: auto auto auto;
+  grid-template-rows: auto 1fr auto;
   background-color: #f0fff0;
 }
 
