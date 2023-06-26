@@ -8,8 +8,9 @@
 .. description: 
 .. type: rst
 
-Die Slides, mit denen ich die Idee demnächst auf diversen Treffen
-vorstellen werde, sind `hier </Präsentation.odp>`_ verfügbar (auch
+Die Slides, mit denen ich unsere Genossenschaft (bzw. das, was eine
+Genossenschaft werden mag) demnächst auf diversen Treffen vorstellen werde,
+sind `hier </Präsentation.odp>`_ verfügbar (auch
 `als PDF </Präsentation.pdf>`_ oder `Powerpoint
 </Präsentation.pptx>`_).
 
