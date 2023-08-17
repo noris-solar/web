@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40.119999mm"
+   height="27.008873mm"
+   viewBox="0 0 40.119999 27.008873"
+   version="1.1"
+   id="svg521"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Logo.noline.vertical.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview523"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="55.888162"
+     inkscape:cy="79.075804"
+     inkscape:window-width="1920"
+     inkscape:window-height="1131"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="noris_solar" />
+  <defs
+     id="defs518">
+    <clipPath
+       id="presentation_clip_path"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         x="0"
+         y="0"
+         width="21000"
+         height="29700"
+         id="rect2" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-38.651047,-97.376643)">
+    <g
+       class="SlideGroup"
+       id="Logo"
+       transform="matrix(0.01,0,0,0.01,-26.004153,75.778814)">
+      <g
+         class="Group"
+         id="noris_solar"
+         transform="translate(1.125e-4)">
+        <g
+           id="solar"
+           transform="translate(-4729.4802,1350.6703)">
+          <g
+             class="com.sun.star.drawing.OpenBezierShape"
+             id="r2">
+            <g
+               id="id13">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="14594"
+                 y="2479"
+                 width="613"
+                 height="1029"
+                 id="rect158" />
+              <path
+                 fill="none"
+                 stroke="#f3e300"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m 14700,2585 v 815 -489 c 0,-163 200,-326 400,-326"
+                 id="path160" />
+            </g>
+          </g>
+          <g
+             class="com.sun.star.drawing.OpenBezierShape"
+             id="a2"
+             transform="translate(1.125e-4)">
+            <g
+               id="id12">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="13594"
+                 y="2480"
+                 width="768"
+                 height="1030"
+                 id="rect151" />
+              <path
+                 fill="none"
+                 stroke="#f3e300"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m 13700,2626 c 150,-41 202,-39 252,-39 50,0 298,39 300,163 -2,121 -52,161 -302,202 -250,41 -250,204 -250,245 0,122 127,205 252,205 125,0 298,-83 298,-205 v -408 c 0,122 11,466 0,611"
+                 id="path153" />
+            </g>
+          </g>
+          <g
+             class="com.sun.star.drawing.OpenBezierShape"
+             id="l2"
+             transform="translate(1.125e-4)">
+            <g
+               id="id11">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="13093"
+                 y="2194"
+                 width="364"
+                 height="1314"
+                 id="rect144" />
+              <path
+                 fill="none"
+                 stroke="#f3e300"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m 13200,2300 c 13,55 0,815 0,897 0,81 0,203 150,203"
+                 id="path146" />
+            </g>
+          </g>
+          <g
+             class="com.sun.star.drawing.ClosedBezierShape"
+             id="o2">
+            <g
+               id="id14">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="12044"
+                 y="2479"
+                 width="913"
+                 height="1029"
+                 id="rect165" />
+              <path
+                 fill="none"
+                 stroke="#f3e300"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 d="m 12500,2585 c -250,0 -350,245 -350,408 0,163 100,407 350,407 250,0 350,-244 350,-407 0,-163 -100,-408 -350,-408 z"
+                 id="path167" />
+            </g>
+          </g>
+          <g
+             class="com.sun.star.drawing.OpenBezierShape"
+             id="s2"
+             transform="translate(1.125e-4)">
+            <g
+               id="id10">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="11195"
+                 y="2480"
+                 width="764"
+                 height="1029"
+                 id="rect137" />
+              <path
+                 fill="none"
+                 stroke="#f3e300"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m 11801,2627 c -150,-41 -150,-41 -200,-41 -50,0 -300,0 -300,163 0,115 100,204 300,245 200,40 250,148 250,244 0,122 -150,163 -250,163 -100,0 -100,0 -300,-41"
+                 id="path139" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="noris"
+           style="stroke:#666666"
+           transform="translate(-4.4802)">
+          <g
+             class="com.sun.star.drawing.OpenBezierShape"
+             id="s1"
+             style="stroke:#666666;stroke-opacity:1">
+            <g
+               id="id8"
+               style="stroke:#666666;stroke-opacity:1">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="9694"
+                 y="2479"
+                 width="764"
+                 height="1029"
+                 id="rect123"
+                 style="stroke:#666666;stroke-opacity:1" />
+              <path
+                 fill="none"
+                 stroke="#666666"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m 10300,2626 c -150,-41 -150,-41 -200,-41 -50,0 -300,0 -300,163 0,115 100,204 300,245 200,41 250,148 250,244 0,123 -150,163 -250,163 -100,0 -100,0 -300,-40"
+                 id="path125"
+                 style="stroke:#666666;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             id="i1">
+            <g
+               class="com.sun.star.drawing.OpenBezierShape"
+               id="g121"
+               style="stroke:#666666;stroke-opacity:1">
+              <g
+                 id="id7"
+                 style="stroke:#666666;stroke-opacity:1">
+                <rect
+                   class="BoundingBox"
+                   stroke="none"
+                   fill="none"
+                   x="9294"
+                   y="2479"
+                   width="213"
+                   height="1029"
+                   id="rect116"
+                   style="stroke:#666666;stroke-opacity:1" />
+                <path
+                   fill="none"
+                   stroke="#666666"
+                   stroke-width="212"
+                   stroke-linejoin="round"
+                   stroke-linecap="round"
+                   d="m 9400,2585 v 815"
+                   id="path118"
+                   style="stroke:#666666;stroke-opacity:1" />
+              </g>
+            </g>
+            <g
+               class="com.sun.star.drawing.CustomShape"
+               id="g135"
+               transform="translate(0,10.782934)"
+               style="stroke-linecap:round;paint-order:markers fill stroke">
+              <g
+                 id="id9"
+                 style="stroke-linecap:round;paint-order:markers fill stroke">
+                <rect
+                   class="BoundingBox"
+                   stroke="none"
+                   fill="none"
+                   x="9299"
+                   y="2149"
+                   width="203"
+                   height="203"
+                   id="rect130"
+                   style="stroke-linecap:round;paint-order:markers fill stroke" />
+                <path
+                   fill="#666666"
+                   stroke="none"
+                   d="m 9501,2251 c 0,17 -5,34 -13,50 -9,15 -22,28 -37,37 -16,8 -33,13 -50,13 -18,0 -35,-5 -51,-13 -15,-9 -28,-22 -37,-37 -8,-16 -13,-33 -13,-50 0,-18 5,-35 13,-51 9,-15 22,-28 37,-37 16,-8 33,-13 51,-13 17,0 34,5 50,13 15,9 28,22 37,37 8,16 13,33 13,51 z"
+                   id="path132"
+                   style="stroke-linecap:round;paint-order:markers fill stroke" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="com.sun.star.drawing.OpenBezierShape"
+             id="r1"
+             style="stroke:#666666;stroke-opacity:1"
+             transform="translate(1.125e-4)">
+            <g
+               id="id6"
+               style="stroke:#666666;stroke-opacity:1">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="8594"
+                 y="2479"
+                 width="613"
+                 height="1029"
+                 id="rect109"
+                 style="stroke:#666666;stroke-opacity:1" />
+              <path
+                 fill="none"
+                 stroke="#666666"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m 8700,2585 v 815 -489 c 0,-163 200,-326 400,-326"
+                 id="path111"
+                 style="stroke:#666666;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             class="com.sun.star.drawing.ClosedBezierShape"
+             id="o1"
+             style="stroke:#666666;stroke-opacity:1"
+             sodipodi:insensitive="true"
+             transform="translate(1.125e-4)">
+            <g
+               id="id5"
+               style="stroke:#666666;stroke-opacity:1">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="7544"
+                 y="2479"
+                 width="913"
+                 height="1029"
+                 id="rect102"
+                 style="stroke:#666666;stroke-opacity:1" />
+              <path
+                 fill="none"
+                 stroke="#666666"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 d="m 8000,2585 c -250,0 -350,245 -350,408 0,163 100,407 350,407 250,0 350,-244 350,-407 0,-163 -100,-408 -350,-408 z"
+                 id="path104"
+                 style="stroke:#666666;stroke-opacity:1" />
+            </g>
+          </g>
+          <g
+             class="com.sun.star.drawing.OpenBezierShape"
+             id="n1"
+             style="stroke:#666666;stroke-opacity:1"
+             transform="translate(1.125e-4)">
+            <g
+               id="id4"
+               style="stroke:#666666;stroke-opacity:1">
+              <rect
+                 class="BoundingBox"
+                 stroke="none"
+                 fill="none"
+                 x="6494"
+                 y="2479"
+                 width="913"
+                 height="1029"
+                 id="rect95"
+                 style="stroke:#666666;stroke-opacity:1" />
+              <path
+                 fill="none"
+                 stroke="#666666"
+                 stroke-width="212"
+                 stroke-linejoin="round"
+                 stroke-linecap="round"
+                 d="m 6600,2585 v 815 -489 c 0,-163 150,-326 350,-326 200,0 350,163 350,326 v 489"
+                 id="path97"
+                 style="stroke:#666666;stroke-opacity:1" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
