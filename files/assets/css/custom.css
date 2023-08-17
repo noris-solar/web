@@ -9,11 +9,6 @@ img.img-logo { height: 0.8em; margin-top: -0.25em; }
 a { color: #030; }
 a.external { font-weight: bold; }
 
-/* body { padding-top: 90px; padding-bottom: 40px; background-color: #efe; }
- */
-/* footer#footer  { background-color: #050; padding-top: 5px;}
- */
-
 h2, h3, article.h-entry h1 {
     margin-top: 0.7em;
 }
@@ -85,10 +80,13 @@ div.postindex header {
     padding-top: 20px;
 }
 
-footer{
+footer {
    grid-row: 3;
    
    background-color: #050;
    padding-top: 5px;
    position: unset;
+}
+footer span, footer a {
+   color: rgba(255,255,255,.5);
 }

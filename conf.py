@@ -1002,9 +1002,9 @@ LICENSE = ""
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
 CONTENT_FOOTER = """
-<div class="container-fluid">
-    <div class="container-md">Inhalt &copy; {date} <a href="mailto:{email}">{author}</a></div>
-    <div class="container-md"><a href="nix">Impressum</a></div>
+<div class="container">
+    <div class="container-sm">Inhalt &copy; {date} <a href="mailto:{email}">{author}</a> &nbsp;|&nbsp;
+    <a href="/impressum">Impressum</a></div>
 </div>
 """
 
