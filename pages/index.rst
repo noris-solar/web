@@ -26,6 +26,9 @@ Bürgerenergiegenossenschaft.
 
 Aktueller Status:
 
+* Auf unserem Interessent:innen-Emailverteiler haben sich bisher 15 Menschen
+  eingefunden.
+
 * Wir haben einen Satzungsentwurf.
 
 * Der Eigentümer einer Industriehalle im Norden von Nürnberg
