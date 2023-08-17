@@ -20,7 +20,7 @@ Bürgerenergiegenossenschaft.
    Stadium: Erste Schritte.
 
    Für die Gründung einer Genossenschaft gibt es einige
-   Voraussetzungen … unter Anderem: Mitstreiter!
+   Voraussetzungen … unter Anderem: Mitstreiter:innen!
 
    Wer mitmachen will, schicke eine Mail an mitmachen@noris.solar.
 
@@ -33,6 +33,9 @@ Aktueller Status:
   d.h. ca. 1 MWp Solarleistung.
 
 Nächste Schritte:
+
+* Am 5.7. um 19 Uhr werde ich das Projekt im Loni-Übler-Haus vorstellen
+  (und um Mitmacher:innen werben …).
 
 * Wir einigen uns über die Details der Satzung.
 
@@ -47,5 +50,7 @@ Nächste Schritte:
 * Photovoltaik auf unsere Dächer bringen.
 
 Mehr in Kürze.
+
+Siehe auch unsere Rubrik `Aktuelles </blog>`_.
 
 
