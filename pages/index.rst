@@ -1,6 +1,6 @@
 .. title: Hauptseite
 .. slug: index
-.. date: 2023-05-24 12:22:37 UTC+02:00
+.. date: 2023-08-17 18:20:00 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
@@ -34,8 +34,7 @@ Aktueller Status:
 
 Nächste Schritte:
 
-* Am 5.7. um 19 Uhr werde ich das Projekt im Loni-Übler-Haus vorstellen
-  (und um Mitmacher:innen werben …).
+* In der KW34 wollen wir ein erstes Kennenlern-Treffen organisieren.
 
 * Wir einigen uns über die Details der Satzung.
 
