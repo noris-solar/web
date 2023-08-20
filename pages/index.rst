@@ -37,7 +37,7 @@ Aktueller Status:
 
 Nächste Schritte:
 
-* In der KW34 wollen wir ein erstes Kennenlern-Treffen organisieren.
+* In der KW35 wollen wir ein erstes Kennenlern-Treffen organisieren.
 
 * Wir einigen uns über die Details der Satzung.
 
