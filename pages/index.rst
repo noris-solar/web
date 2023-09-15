@@ -29,6 +29,10 @@ Aktueller Status:
 * Auf unserem Interessent:innen-Emailverteiler haben sich bisher 35 Menschen
   eingefunden.
 
+* Wir fangen so langsam damit an, uns der Öffentlichkeit vorzustellen.
+  Den ersten Flyer (noch nicht perfekt, aber man muss ja mal anfangen …)
+  findest du `hier </assets/Flyer1.pdf>`_
+
 * Wir haben einen Satzungsentwurf.
 
 * Alternativ zur Gründung einer eigenen Genossenschaft denken wir darüber
