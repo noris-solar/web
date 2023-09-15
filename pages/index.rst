@@ -26,10 +26,13 @@ Bürgerenergiegenossenschaft.
 
 Aktueller Status:
 
-* Auf unserem Interessent:innen-Emailverteiler haben sich bisher 15 Menschen
+* Auf unserem Interessent:innen-Emailverteiler haben sich bisher 35 Menschen
   eingefunden.
 
 * Wir haben einen Satzungsentwurf.
+
+* Alternativ zur Gründung einer eigenen Genossenschaft denken wir darüber
+  nach, uns der `EWERG e.G. <https://ewerg.de>`_ anzuschließen.
 
 * Der Eigentümer einer Industriehalle im Norden von Nürnberg
   hat sich bereiterklärt, uns sein Dach verpachten. Uns erwarten 7000 m²,
@@ -37,19 +40,8 @@ Aktueller Status:
 
 Nächste Schritte:
 
-* In der KW35 wollen wir ein erstes Kennenlern-Treffen organisieren.
-
-* Wir einigen uns über die Details der Satzung.
-
-* Ausreichend viele Mitstreiter halten eine Gründungsversammlung ab.
-
-* Die Satzung muss von einem Prüfungsverband bestätigt werden.
-
-* Genossenschaft eintragen, Konto eröffnen, und so weiter.
-
-* Weitere Mitglieder finden.
-
-* Photovoltaik auf unsere Dächer bringen.
+* Wir treffen uns mit dem Ewerg-Geschäftsführer und entscheiden über unseren
+  weiteren Weg.
 
 Mehr in Kürze.
 
