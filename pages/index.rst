@@ -1,6 +1,6 @@
 .. title: Hauptseite
 .. slug: index
-.. date: 2023-08-17 18:20:00 UTC+02:00
+.. date: 2023-10-08 10:30:00 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
@@ -10,6 +10,10 @@
 .. |logo| image:: /assets/Logo.noline.svg
                   :alt: noris.solar
                   :class: img-logo
+
+.. |br| raw:: html
+
+  <br/>
 
 Willkommen bei |logo| (demnächst-eG), der Nürnberger
 Bürgerenergiegenossenschaft.
@@ -26,12 +30,13 @@ Bürgerenergiegenossenschaft.
 
 Aktueller Status:
 
-* Auf unserem Interessent:innen-Emailverteiler haben sich bisher 35 Menschen
+* Auf unserem Interessent:innen-Emailverteiler haben sich bisher 45 Menschen
   eingefunden.
 
 * Wir fangen so langsam damit an, uns der Öffentlichkeit vorzustellen.
+  |br|
   Den ersten Flyer (noch nicht perfekt, aber man muss ja mal anfangen …)
-  findest du `hier </assets/Flyer1.pdf>`_
+  findest du `hier </assets/Flyer1.pdf>`_.
 
 * Wir haben einen Satzungsentwurf.
 
@@ -44,8 +49,10 @@ Aktueller Status:
 
 Nächste Schritte:
 
-* Wir treffen uns mit dem Ewerg-Geschäftsführer und entscheiden über unseren
-  weiteren Weg.
+* Wir haben uns mit dem Ewerg-Vorstandsvorsitzenden getroffen und
+  besprochen, ob und wie wir zusammenarbeiten können und wollen.
+
+* Demnächst entscheiden wir über unseren weiteren Weg.
 
 Mehr in Kürze.
 

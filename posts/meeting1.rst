@@ -14,3 +14,7 @@ Ich habe einen Mailverteiler angelegt (interesse@list.noris.solar), über
 den auch die Einladung dafür verschickt wurde. Die Mail ist bei manchen
 wohl im Spam(verdacht) gelandet; wer sie nicht bekommen habt, der/die
 sehe dort nach – oder schicke mir eine kurze Mail.
+
+Update: Wer neu auf die Liste will, schicke bitte eine Mail an
+interesse-join@list.noris.solar.
+
