@@ -1,6 +1,6 @@
 .. title: Hauptseite
 .. slug: index
-.. date: 2023-10-08 10:30:00 UTC+02:00
+.. date: 2023-12-23 17:30:00 UTC+02:00
 .. tags: 
 .. category: 
 .. link: 
@@ -15,18 +15,8 @@
 
   <br/>
 
-Willkommen bei |logo| (demnächst-eG), der Nürnberger
-Bürgerenergiegenossenschaft.
+Willkommen auf den Seiten der |logo|!
 
-
-.. admonition:: *Noch* sind wir **keine** Genossenschaft.
-
-   Stadium: Erste Schritte.
-
-   Für die Gründung einer Genossenschaft gibt es einige
-   Voraussetzungen … unter Anderem: Mitstreiter:innen!
-
-   Wer mitmachen will, schicke eine Mail an mitmachen@noris.solar.
 
 Aktueller Status:
 
@@ -38,10 +28,9 @@ Aktueller Status:
   Den ersten Flyer (noch nicht perfekt, aber man muss ja mal anfangen …)
   findest du `hier </assets/Flyer1.pdf>`_.
 
-* Wir haben einen Satzungsentwurf.
-
-* Alternativ zur Gründung einer eigenen Genossenschaft denken wir darüber
-  nach, uns der `EWERG e.G. <https://ewerg.de>`_ anzuschließen.
+* Wir haben uns als Regionalgruppe der `EWERG e.G. <https://ewerg.de>`_
+  angeschlossen, um den bürokratischen und personellen Aufwand einer eigenen
+  Genossenschaftsgründung zu sparen.
 
 * Der Eigentümer einer Industriehalle im Norden von Nürnberg
   hat sich bereiterklärt, uns sein Dach verpachten. Uns erwarten 7000 m²,
@@ -49,12 +38,11 @@ Aktueller Status:
 
 Nächste Schritte:
 
-* Wir haben uns mit dem Ewerg-Vorstandsvorsitzenden getroffen und
-  besprochen, ob und wie wir zusammenarbeiten können und wollen.
+* Wir organisieren die Beauftragung und Finanzierung des Hallendachs.
 
-* Demnächst entscheiden wir über unseren weiteren Weg.
+* Ein Dach ist uns viel zu wenig.
 
-Mehr in Kürze.
+  Wir freuen uns über Mitstreiter, die Dächer finden und deren Eigentümer für uns begeistern.
 
 Siehe auch unsere Rubrik `Aktuelles </blog>`_.
 

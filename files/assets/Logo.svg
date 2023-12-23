@@ -8,7 +8,7 @@
    version="1.1"
    id="svg521"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="Logo.light.svg"
+   sodipodi:docname="Logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="38.05774"
-     inkscape:cx="129.75021"
-     inkscape:cy="10.35269"
-     inkscape:window-width="1920"
-     inkscape:window-height="1131"
+     inkscape:zoom="3.3638608"
+     inkscape:cx="198.58135"
+     inkscape:cy="66.144236"
+     inkscape:window-width="1916"
+     inkscape:window-height="1142"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="id9" />
+     inkscape:current-layer="id16" />
   <defs
      id="defs518">
     <clipPath
@@ -77,52 +77,21 @@
             <text
                class="SVGTextShape"
                id="text191"
-               style="stroke:#666666;stroke-opacity:1;fill:#666666;fill-opacity:1"><tspan
-                 class="TextParagraph"
-                 font-family="Cantarell"
-                 font-size="723px"
-                 font-weight="400"
-                 id="tspan189"
-                 style="stroke:#666666;stroke-opacity:1;fill:#666666;fill-opacity:1"><tspan
-                   class="TextPosition"
-                   x="6505"
-                   y="4176"
-                   id="tspan187"
-                   style="stroke:#666666;stroke-opacity:1;fill:#666666;fill-opacity:1"><tspan
-                     fill="#808080"
-                     stroke="none"
-                     style="white-space:pre;stroke:#666666;stroke-opacity:1;fill:#666666;fill-opacity:1"
-                     id="tspan185">Energiegenossenschaft eG</tspan></tspan></tspan></text>
+               style="font-size:599.722px;fill:#666666;fill-opacity:1;stroke:#666666;stroke-opacity:1"
+               x="-78.037872"
+               y="-88.285759"><tspan
+                 class="TextPosition"
+                 x="6426.9619"
+                 y="4087.7141"
+                 id="tspan187"
+                 style="font-size:599.722px;white-space:pre;fill:#666666;fill-opacity:1;stroke:#666666;stroke-opacity:1">Regionalgruppe der EWERG eG</tspan></text>
           </g>
-        </g>
-        <g
-           id="Strich"
-           style="stroke:#c81100;stroke-opacity:1"
-           transform="translate(52.916779,52.916673)">
-          <rect
-             class="BoundingBox"
-             stroke="none"
-             fill="none"
-             x="14046"
-             y="3646"
-             width="1108"
-             height="508"
-             id="rect88"
-             style="stroke:#c81100;stroke-opacity:1" />
-          <path
-             fill="none"
-             stroke="#3465a4"
-             stroke-width="106"
-             stroke-linejoin="round"
-             d="m 14100,4100 1000,-400"
-             id="path90"
-             style="stroke:#c81100;stroke-opacity:1" />
         </g>
       </g>
       <g
          class="Group"
          id="noris_solar"
-         transform="translate(1.125e-4)">
+         transform="translate(-8.8652784)">
         <g
            id="solar">
           <g

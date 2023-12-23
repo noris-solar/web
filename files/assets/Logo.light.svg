@@ -24,15 +24,15 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="38.05774"
-     inkscape:cx="129.75021"
-     inkscape:cy="10.35269"
-     inkscape:window-width="1920"
-     inkscape:window-height="1131"
+     inkscape:zoom="3.3638608"
+     inkscape:cx="198.58135"
+     inkscape:cy="62.874184"
+     inkscape:window-width="1916"
+     inkscape:window-height="1142"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="id9" />
+     inkscape:current-layer="id16" />
   <defs
      id="defs518">
     <clipPath
@@ -77,46 +77,10 @@
             <text
                class="SVGTextShape"
                id="text191"
-               style="stroke:#bfbfbf;stroke-opacity:1;fill:#bfbfbf;fill-opacity:1"><tspan
-                 class="TextParagraph"
-                 font-family="Cantarell"
-                 font-size="723px"
-                 font-weight="400"
-                 id="tspan189"
-                 style="stroke:#bfbfbf;stroke-opacity:1;fill:#bfbfbf;fill-opacity:1"><tspan
-                   class="TextPosition"
-                   x="6505"
-                   y="4176"
-                   id="tspan187"
-                   style="stroke:#bfbfbf;stroke-opacity:1;fill:#bfbfbf;fill-opacity:1"><tspan
-                     fill="#808080"
-                     stroke="none"
-                     style="white-space:pre;stroke:#bfbfbf;stroke-opacity:1;fill:#bfbfbf;fill-opacity:1"
-                     id="tspan185">Energiegenossenschaft eG</tspan></tspan></tspan></text>
+               style="font-size:599.722px;fill:#bfbfbf;fill-opacity:1;stroke:#bfbfbf;stroke-opacity:1"
+               x="6435.8271"
+               y="4087.1541">Regionalgruppe der EWERG eG</text>
           </g>
-        </g>
-        <g
-           id="Strich"
-           style="stroke:#c81100;stroke-opacity:1"
-           transform="translate(52.916779,52.916673)">
-          <rect
-             class="BoundingBox"
-             stroke="none"
-             fill="none"
-             x="14046"
-             y="3646"
-             width="1108"
-             height="508"
-             id="rect88"
-             style="stroke:#c81100;stroke-opacity:1" />
-          <path
-             fill="none"
-             stroke="#3465a4"
-             stroke-width="106"
-             stroke-linejoin="round"
-             d="m 14100,4100 1000,-400"
-             id="path90"
-             style="stroke:#c81100;stroke-opacity:1" />
         </g>
       </g>
       <g
