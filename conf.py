@@ -16,8 +16,8 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "noris.solar i.Gr."  # (translatable)
-BLOG_TITLE = "noris.solar Energiegenossenschaft i.Gr."  # (translatable)
+BLOG_AUTHOR = "noris.solar"  # (translatable)
+BLOG_TITLE = "noris.solar (Teil der EWERG eG)"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://noris.solar/"
@@ -143,11 +143,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ((
-            ("/gen/idee/", "Die Idee"),
-            ("/blog/satzung-01/", "Satzung (Entwurf!)"),
-            ("/", "Weiteres"),
-            ("/", "folgt"),
-            ("/", "demnächst"),
+            ("https://ewerg.de", "EWERG eG"),
         ), "Genossenschaft"),
         ((
             ("/proj/kilian/", "1 MW Solardach"),
